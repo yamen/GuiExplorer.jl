@@ -1,0 +1,6 @@
+[deps]
+CImGui = "5d785b6c-b76f-510e-a07c-3070796c7e87"
+CImGui_jll = "7dd61d3b-0da5-5c94-bbf9-a0296c6e3925"
+Clang = "40e3b903-d033-50b4-a0cc-940c62c95e31"
+Gui = "25e89478-34d6-4db0-9c3c-9624fb2060a5"
+ImPlot = "e8efc688-5342-4ad4-b4ba-9025a731b363"
